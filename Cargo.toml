@@ -1,0 +1,7 @@
+[package]
+name = "asteroidy"
+version = "0.1.0"
+authors = ["Andreas"]
+
+[dependencies]
+piston_window = "0.20.0"
