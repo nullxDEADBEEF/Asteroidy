@@ -1,8 +1,9 @@
 [package]
 name = "asteroidy"
-version = "0.1.0"
-authors = ["Andreas"]
+version = "0.2.11"
+authors = ["Andreas<nullxDEADBEEF>"]
 
 [dependencies]
-piston_window = "0.20.0"
-cgmath = "0.2.0"
+piston_window = "0.51.1"
+cgmath = "0.8.0"
+
