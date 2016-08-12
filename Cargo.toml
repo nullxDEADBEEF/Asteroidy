@@ -5,5 +5,5 @@ authors = ["Andreas<nullxDEADBEEF>"]
 
 [dependencies]
 piston_window = "0.51.1"
-cgmath = "0.8.0"
+cgmath = "0.10.0"
 
